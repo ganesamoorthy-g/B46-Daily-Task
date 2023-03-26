@@ -11,5 +11,5 @@ let office={
 // console.log(Object.values(office));
 // console.log(Object.keys(office));
 // console.log(Object.entries(office));
-let entries=Object.entries(office);
-console.log(entries[0] [1]);
+// let entries=Object.entries(office);
+// console.log(entries[3]);
